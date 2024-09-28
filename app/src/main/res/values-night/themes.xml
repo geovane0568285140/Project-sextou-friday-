@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Sextou" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->s
+        <item name="statusBarBackground">@color/purple</item>
+        <item name="toolbarStyle">@color/purple</item>
+
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryDark">@color/purple</item>
+        <item name="colorAccent">@color/purple</item>
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
